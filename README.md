@@ -1,2 +1,2 @@
 # test01
-Pruebas Git Termina del curso de python
+Pruebas de Git Terminal del curso de Python con Ángel de Bejob.
