@@ -1,2 +1,2 @@
 # test01
-Pruebas Git Terminal
+Pruebas Git Termina del curso de python
