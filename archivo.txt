@@ -1,0 +1,2 @@
+Python es un lenguaje de programación orientado a objetos.
+Y Mario y yo nos estamos volviendo locos con ello.
